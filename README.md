@@ -1,6 +1,6 @@
 # Emotion Detection
 
-- Download the Dataset for different emotions or Use Web Scrapping tools.
+- Kaggle Dataset :- https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data.
 
 - Change the number of classes according to you.
 
